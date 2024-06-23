@@ -1,0 +1,64 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Theo van der Sluijs",
+    "jobTitle": "Product Manager / Owner | Agile Coach | Desarrollador Python | Asesor de Sostenibilidad \ud83c\udf31",
+    "email": "theo@vandersluijs.nl",
+    "telephone": "+31628135526",
+    "url": "https://theovandersluijs.eu",
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Paul Kr\u00fcgerstraat 20 4443 AK Nisse, Zeeland",
+        "addressCountry": "NL"
+    },
+    "sameAs": [
+        "https://www.linkedin.com/in/tvandersluijs/",
+        "https://wa.me/31628135526",
+        "https://github.com/tvdsluijs",
+        "https://telegram.me/tvdsluijs",
+        "https://itheo.tech",
+        "https://vandersluijs.nl"
+    ],
+    "worksFor": [
+        {
+            "@type": "Organization",
+            "name": "Maxxton",
+            "sameAs": "https://www.maxxton.com"
+        },
+        {
+            "@type": "Organization",
+            "name": "Energie Advies Zeeland",
+            "sameAs": "https://www.energieadvieszeeland.nl/"
+        },
+        {
+            "@type": "Organization",
+            "name": "TS Intermedia",
+            "sameAs": "https://www.ts-intermedia.nl/"
+        },
+        {
+            "@type": "Organization",
+            "name": "PAY.",
+            "sameAs": "https://www.pay.nl/"
+        },
+        {
+            "@type": "Organization",
+            "name": "XSARUS | Digital Commerce",
+            "sameAs": "https://www.xsarus.nl"
+        },
+        {
+            "@type": "Organization",
+            "name": "Viterra B.V.",
+            "sameAs": "https://www.viterra.com"
+        },
+        {
+            "@type": "Organization",
+            "name": "e-Health Ventures Group",
+            "sameAs": "https://ehealthventuresgroup.com/"
+        },
+        {
+            "@type": "Organization",
+            "name": "Bax-Music \u266c",
+            "sameAs": "https://www.bax-shop.nl/"
+        }
+    ]
+}

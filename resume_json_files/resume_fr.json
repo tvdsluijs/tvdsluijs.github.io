@@ -1,0 +1,394 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "lang": "fr",
+    "name": "Theo van der Sluijs",
+    "shortname": "TvdS",
+    "meta_description": "Theo van der Sluijs, développeur expérimenté, Product Manager, CTO, Product Owner, automatise les choses et aime construire des projets.",
+    "label": "Product Manager / Owner | Agile Coach | Développeur Python | Conseiller en Durabilité 🌱",
+    "image": "images/Theo_van_der_sluijs.jpeg",
+    "email": "theo@vandersluijs.nl",
+    "phone": "+31628135526",
+    "linkedin": "tvandersluijs",
+    "github": "tvdsluijs",
+    "url": "https://theovandersluijs.eu",
+    "picture": "images/Theo_van_der_sluijs.jpeg",
+    "summary": "Avec des années d'expérience en tant que programmeur, j'ai appris à connaître le monde numérique de l'intérieur. En tant que Product Owner / Product & Team Manager, mon objectif est d'améliorer les logiciels et de guider les équipes informatiques du monde entier, avec un accent particulier sur l'Inde. Il est fascinant de voir comment la technologie nous permet de franchir les distances et d'embrasser les différences culturelles tout en travaillant ensemble sur des solutions innovantes.\n\nCe parcours m'a également conduit à une autre passion : la durabilité dans l'informatique et au-delà. Un projet notable est ma plateforme Energy Prices, où j'ai utilisé des serveurs Digital Ocean exécutant Debian, ainsi que plusieurs conteneurs Docker hébergeant des systèmes d'exploitation basés sur Linux et des environnements Python. Ce système basé sur API fournit des prix du gaz quotidiens et des prix de l'électricité horaires à plus de 15 000 utilisateurs. J'ai géré moi-même toute l'installation, la configuration et le dépannage pour garantir des performances et une fiabilité optimales. Je suis fermement convaincu que nous pouvons utiliser notre expertise technique non seulement pour développer des logiciels et du matériel plus efficaces, mais aussi pour guider les entreprises vers un avenir plus vert. C'est là que réside l'une de mes passions : combiner les initiatives technologiques et environnementales pour avoir un impact positif.\n\nGrâce à mes expériences, j'ai appris que le succès ne se mesure pas seulement en lignes de code ou en délais de projet, mais aussi par les changements positifs que nous apportons. De l'optimisation des processus commerciaux et d'équipe à la réduction de l'empreinte écologique d'une entreprise, c'est un équilibre difficile mais extrêmement gratifiant.\n\nAu fond de moi, je suis un bâtisseur de ponts – entre les équipes et les clients, avec des pas occasionnels vers un avenir plus durable. Ensemble, nous pouvons exploiter la puissance de l'informatique pour transformer non seulement nos entreprises, mais aussi notre monde.",
+    "intro": "Avec des années d'expérience en tant que programmeur, je me concentre sur l'amélioration des logiciels et la direction des équipes informatiques mondiales. En tant que bâtisseur de ponts, je vise à transformer les entreprises grâce à des solutions informatiques efficaces et à la collaboration.",
+    "location": {
+      "countryCode": "NL",
+      "address": "Paul Krügerstraat 20 4443 AK Nisse, Zeeland"
+    },
+    "profiles": [
+      {
+        "icon": "linkedin.svg",
+        "url": "https://www.linkedin.com/in/tvandersluijs/",
+        "network": "LinkedIn"
+      },
+      {
+        "icon": "whatsapp.svg",
+        "url": "https://wa.me/31628135526",
+        "network": "whatsapp"
+      },
+      {
+        "icon": "github.svg",
+        "url": "https://github.com/tvdsluijs",
+        "network": "GitHub"
+      },
+      {
+        "icon": "telegram.svg",
+        "url": "https://telegram.me/tvdsluijs",
+        "network": "Telegram"
+      },
+      {
+        "icon": "laptop.svg",
+        "url": "https://itheo.tech",
+        "network": "iTheo.tech - Blog"
+      },
+      {
+        "icon": "personal-website.svg",
+        "url": "https://vandersluijs.nl",
+        "network": "Theo van der Sluijs - Blog"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Maxxton",
+      "position": "Product Owner",
+      "startDate": "2023",
+      "endDate": "",
+      "word_show": true,
+      "highlights": [],
+      "summary": "En tant que Product Owner chez Maxxton, je dirige une équipe de 18 développeurs backend et frontend, designers et professionnels QA en Inde. Je visite régulièrement l'Inde et maintiens un contact quotidien pour assurer une communication fluide et des workflows efficaces. Je travaille avec des clients tels que Roompot, Landal et Farmcamps pour fournir des solutions sur mesure. Mon objectif est de développer des modules financiers sécurisés et bien testés qui rationalisent les opérations et améliorent l'expérience utilisateur.",
+      "url": "https://www.maxxton.com",
+      "location": "Middelburg, NL / Pune, Inde",
+      "skills": [
+        "Gestion de projet",
+        "Leadership d'équipe",
+        "Développement de logiciels",
+        "Méthodologies Agile",
+        "Product Owner"
+      ]
+    },
+    {
+      "name": "Energie Advies Zeeland",
+      "position": "Propriétaire",
+      "startDate": "2022",
+      "endDate": "",
+      "word_show": false,
+      "highlights": [],
+      "summary": "En tant que propriétaire d'Energie Advies Zeeland, j'aide les entreprises à atteindre leurs objectifs de durabilité. Je fournis des conseils personnalisés pour améliorer la durabilité et élever les entreprises à un niveau plus durable. Je me spécialise dans le conseil et le soutien au développement de systèmes de gestion de l'énergie et à la conformité avec l'obligation d'économie d'énergie et le devoir d'information. Grâce à mon expertise, je propose des solutions pratiques et efficaces pour un avenir plus vert, à la fois à l'intérieur et à l'extérieur de la Zélande.",
+      "url": "https://www.energieadvieszeeland.nl/",
+      "location": "Zélande, NL",
+      "skills": [
+        "Durabilité",
+        "Audits énergétiques",
+        "Smart Metering",
+        "Énergie solaire",
+        "Smart Grid",
+        "Énergies renouvelables"
+      ]
+    },
+    {
+      "name": "TS Intermedia",
+      "position": "Propriétaire",
+      "startDate": "1996",
+      "endDate": "",
+      "word_show": false,
+      "highlights": [],
+      "summary": "En tant que propriétaire de TS Intermedia depuis 1996, j'apporte une vaste expérience en informatique et en développement dans des rôles intérimaires au niveau de Product Owner/Manager, Team/Tech Lead, Manager et CTO. Mon expertise couvre le développement de logiciels, la configuration matérielle et les environnements réseau. Je suis excellent pour diriger de grandes équipes internationales et fournir des solutions sécurisées, fiables et efficaces. J'aide les entreprises à optimiser leur infrastructure et leurs processus informatiques, garantissant des solutions robustes et une sécurité dans tous les aspects de leurs opérations informatiques.",
+      "url": "https://www.ts-intermedia.nl/",
+      "location": "Zélande, NL",
+      "skills": [
+        "Analyse commerciale",
+        "Gestion de projet",
+        "Planification de projet",
+        "Product Owner",
+        "Leadership d'équipe"
+      ]
+    },
+    {
+      "name": "PAY.",
+      "position": "Product Owner",
+      "startDate": "2022",
+      "endDate": "2023",
+      "word_show": true,
+      "highlights": [],
+      "summary": "Chez Pay, j'étais Product Manager/Product Owner dirigeant une équipe de 8 développeurs. Mon rôle consistait à créer des logiciels de traitement des paiements robustes et sécurisés. Avec des compétences en pensée analytique, analyse commerciale, méthodologies Agile et planification de projet, j'ai veillé à ce que nos solutions répondent à des normes élevées. J'ai collaboré avec des grandes banques et organisations comme iDeal, IN3 et ING pour fournir des systèmes de paiement fiables et sécurisés.",
+      "url": "https://www.pay.nl/",
+      "location": "Spijkenisse, NL / Enschede, NL",
+      "skills": [
+        "Gestion de projet",
+        "Planification de projet",
+        "Product Owner",
+        "Compétences analytiques",
+        "Analyse commerciale",
+        "Leadership d'équipe",
+        "Méthodologies Agile"
+      ]
+    },
+    {
+      "name": "XSARUS | Digital Commerce",
+      "position": "Chef de projet / Responsable opérationnel",
+      "startDate": "2021",
+      "endDate": "2022",
+      "word_show": true,
+      "highlights": [],
+      "summary": "En tant que Chef de projet / Responsable opérationnel chez XSARUS, j'ai dirigé une équipe de 8 développeurs pour créer des boutiques en ligne sécurisées pour des grandes marques de mode comme Bomont et Nora. Spécialisé en e-commerce Magento, j'ai promu la collaboration, l'innovation et les méthodologies Agile pour offrir des expériences de shopping en ligne robustes. J'ai veillé à ce que les projets respectent les délais, les budgets et les attentes de qualité tout en maintenant une communication claire avec les clients.",
+      "url": "https://www.xsarus.nl",
+      "location": "Middelharnis, NL",
+      "skills": [
+        "Leadership d'équipe",
+        "Gestion de projet",
+        "Gestion des opérations",
+        "Méthodologies Agile",
+        "Product Owner"
+      ]
+    },
+    {
+      "name": "Viterra B.V.",
+      "position": "CTO / Responsable du développement informatique",
+      "startDate": "2017",
+      "endDate": "2021",
+      "word_show": true,
+      "highlights": [],
+      "summary": "Chez Viterra/Glencore, j'étais CTO par intérim et Responsable du développement informatique, dirigeant 150 développeurs en Inde et 50 aux Pays-Bas, y compris des Product Owners et des testeurs. Avec l'aide de Cognizant, nous avons migré des logiciels critiques de PowerBuilder vers Java/C# et Angular, fournissant des solutions robustes et efficaces. Mon rôle incluait la planification stratégique, l'allocation des ressources et la promotion d'une culture d'innovation et d'amélioration continue.",
+      "url": "https://www.viterra.com",
+      "location": "Rotterdam, NL / Chennai, Inde",
+      "skills": [
+        "Gestion informatique",
+        "Gestion de projet",
+        "Planification de projet",
+        "Opérations informatiques",
+        "Leadership d'équipe",
+        "Développement de logiciels",
+        "Méthodologies Agile"
+      ]
+    },
+    {
+      "name": "e-Health Ventures Group",
+      "position": "CTO / Responsable informatique / Responsable du développement logiciel",
+      "startDate": "2014",
+      "endDate": "2017",
+      "word_show": true,
+      "highlights": [],
+      "summary": "En tant que CTO / Responsable informatique et développement logiciel chez eHealth Ventures Group, j'ai fait progresser l'entreprise en définissant la feuille de route technologique, en stimulant l'innovation et en supervisant les équipes de développement logiciel aux Pays-Bas et à Curaçao. Mes efforts ont permis de livrer des solutions e-santé de haute qualité, permettant aux consommateurs de prendre des décisions éclairées.",
+      "url": "https://ehealthventuresgroup.com/",
+      "location": "Roosendaal, NL / Willemstad, Curaçao",
+      "skills": [
+        "Opérations informatiques",
+        "Gestion informatique",
+        "Leadership d'équipe",
+        "Gestion de projet",
+        "Méthodologies Agile",
+        "Product Owner"
+      ]
+    },
+    {
+      "name": "Bax-Music ♬",
+      "position": "CTO / Responsable Technique & Développement",
+      "startDate": "2011",
+      "endDate": "2014",
+      "word_show": true,
+      "highlights": [],
+      "summary": "En tant que CTO chez Bax-Music, une entreprise visant à devenir la plus grande boutique de musique en ligne en Europe, j'ai joué un rôle crucial dans la croissance. Notre équipe de développement est passée de 3 à 35 professionnels sous ma direction. Nous avons migré d'un système monolithique à un environnement basé sur des microservices, améliorant la scalabilité et les performances. Ma vision stratégique et mon focus sur l'innovation ont été reconnus par des pairs de l'industrie comme Coolblue. Chez Bax-Music, j'ai souligné l'importance des méthodologies Agile, de l'amélioration continue et de la collaboration, ce qui a conduit à des contributions significatives à notre succès en tant que principale boutique de musique en ligne en Europe.",
+      "url": "https://www.bax-shop.nl/",
+      "location": "Goes, NL",
+      "skills": [
+        "Gestion informatique",
+        "Leadership d'équipe",
+        "Gestion de projet",
+        "Méthodologies Agile",
+        "Product Owner"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Groupe de travail sur la transition énergétique de Nisse",
+      "position": "Président",
+      "startDate": "2022",
+      "endDate": "",
+      "summary": "En tant que Président du Groupe de travail sur la durabilité, je collabore avec les échevins de la municipalité de Borsele. Notre groupe comprend un ancien PDG d'une grande entreprise énergétique, un constructeur de bâtiments et un scientifique en chimie. Ensemble, nous aidons les habitants de Nisse à créer des solutions de logement durable.",
+      "highlights": [],
+      "url": "https://www.borsele.nl/werkgroep-duurzaam-nisse"
+    },
+    {
+      "organization": "Fondation du conseil de village de Nisse, Municipalité de Borsele",
+      "position": "Président",
+      "startDate": "2020",
+      "endDate": "",
+      "summary": "En tant que Président du Conseil de village, je collabore étroitement avec les conseillers de la municipalité de Borsele pour maintenir et améliorer la qualité de vie à Nisse. Mon rôle implique une planification stratégique et un engagement communautaire pour garantir que notre village reste un endroit agréable à vivre.",
+      "highlights": [],
+      "url": "https://www.nisse-info.nl/"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Haagse Hogeschool/TH Rijswijk",
+      "area": "VIA, Design et Interaction",
+      "studyType": "",
+      "startDate": "1996",
+      "endDate": "2001",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "MEAO Oude Tonge",
+      "area": "Informatique & Administration des affaires",
+      "studyType": "Diplôme d'associé",
+      "startDate": "1991",
+      "endDate": "1996",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Willem van Oranje",
+      "area": "MAVO",
+      "studyType": "Diplôme secondaire général junior",
+      "startDate": "1987",
+      "endDate": "1991",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Anti-Fraude",
+      "date": "2013-05-31",
+      "awarder": "Police | Midden-Nederland | Dienst Recherche Régionale",
+      "summary": "Avec la Police, Service de l'escouade régionale de lutte contre le crime, j'ai aidé à découvrir et à condamner un grand gang de fraudeurs.\n\nJ'ai aidé la police à obtenir les bonnes informations de fraude avec des adresses et des adresses IP. Avec cette grande quantité d'informations, ils ont pu aller plus loin dans la condamnation de ce gang de fraudeurs.\n\nIl n'y a pas eu de véritable récompense, mais c'était amusant de le faire et d'aider. La police m'a honoré pour mon aide."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Professional Scrum Master I",
+      "issuer": "Scrum.org",
+      "startDate": "2012-11-30",
+      "image": "images/PSM-Theo_van_der_Sluijs.png",
+      "url": "https://www.scrum.org/user/180028"
+    },
+    {
+      "name": "Professional Scrum Product Owner™ level I",
+      "issuer": "Scrum.org",
+      "startDate": "2018-08-31",
+      "image": "images/PSPO-Theo_van_der_Sluijs.png",
+      "url": "https://www.scrum.org/user/180028"
+    },
+    {
+      "name": "Senior Executive Management",
+      "issuer": "Krauthammer",
+      "startDate": "2019-11-30",
+      "image": "images/Krauthammer-Theo_van_der_Sluijs.png"
+    }
+  ],
+  "skills": [
+    "Debian",
+    "Docker",
+    "MySQL",
+    "Oracle",
+    "SQL",
+    "PostgreSQL",
+    "Formules Lotus Notes",
+    "LotusScript",
+    "ABAP-OO",
+    "Flex2.0",
+    "Product Owner",
+    "Script de formulaire PDF",
+    "VisualBasic",
+    "PHP",
+    "ASP Classique",
+    "Python",
+    "ActionScript",
+    "Bash",
+    "Raspberry Pi",
+    "Domotique"
+  ],
+  "languages": [
+    {
+      "fluency": "C2",
+      "language": "Néerlandais"
+    },
+    {
+      "fluency": "C1",
+      "language": "Anglais"
+    },
+    {
+      "fluency": "B1",
+      "language": "Allemand"
+    }
+  ],
+  "interests": [
+    "Diriger des équipes informatiques transversales pour des projets logiciels mondiaux.",
+    "Coaching Agile et gestion d'équipe.",
+    "Conduire des ateliers et des formations sur les méthodologies Agile.",
+    "Gérer le cycle de vie du produit de la conception au lancement.",
+    "Collaborer avec des équipes internationales pour stimuler l'innovation.",
+    "Optimiser les processus de développement logiciel pour plus d'efficacité.",
+    "Mettre en œuvre et gérer des mesures de cybersécurité dans les projets informatiques.",
+    "Réaliser des audits de sécurité et des évaluations des risques pour les systèmes logiciels.",
+    "Présenter lors de conférences (industrielles) sur la durabilité ou la technologie."
+  ],
+  "personal_interests": [
+    "Domotique",
+    "Raspberry Pi / Linux / Docker",
+    "Développement Python",
+    "Contributions open-source",
+    "Énergies renouvelables et durabilité"
+  ],
+  "personal_activities": [
+    "Randonnée",
+    "Aviron en salle",
+    "Bénévole coach en énergie"
+  ],
+  "references": [
+    {
+      "name": "Rucha Waikar",
+      "reference": "J'ai eu la chance de constater les compétences exceptionnelles en leadership de Theo. Sa capacité à transmettre des idées complexes de manière concise et claire, ainsi que son souci du détail, se sont avérés être des atouts précieux, bénéficiant également à notre travail. Il offrait non seulement des idées précieuses, mais prenait également toujours le temps de fournir soutien et conseils.",
+      "url": "https://www.linkedin.com/in/rucha-waikar-0576261a8/"
+    },
+    {
+      "name": "Faisal Parwani",
+      "reference": "J'ai appris à connaître Theo comme un leader passionné et dévoué à son travail. C'est un excellent leader dont le style de leadership inspire des contributions dévouées de ceux qui travaillent avec lui.\n\nUn maître dans la création de moral d'équipe lorsque les choses se compliquent, rassemblant une excellente équipe pour continuer à faire de leur mieux pour l'entreprise. Il est capable de créer un environnement motivant qui enveloppe une équipe dans une atmosphère de créativité et de haute productivité autogérée.\n\nIl se soucie vraiment des personnes avec lesquelles il travaille ainsi que de l'entreprise. Il dirige par l'exemple et est très compétent sur les aspects techniques et commerciaux de l'entreprise.\n\nIl est, franchement, génial à travailler pour et avec, dans n'importe quelle entreprise. Un atout certain pour toute organisation.",
+      "url": "https://www.linkedin.com/in/faisalparwani/"
+    },
+    {
+      "name": "Pieter Schoehuijs",
+      "reference": "Theo a clairement démontré en tant que membre de l'équipe de gestion informatique qu'il est un manager qui reste bien connecté avec son équipe. Il souhaite toujours mener lui-même les évaluations et autres réunions, ce qui démontre un bon leadership des personnes. Son attention au développement de ses collaborateurs doit également être mentionnée. Avant mon arrivée, il a dirigé l'organisation informatique pendant longtemps en tant que membre d'une équipe de trois personnes, ce qui est impressionnant compte tenu des changements à l'époque. Il est également orienté vers les processus, excellant à trouver des structures plutôt que de simplement traiter les incidents.",
+      "url": "https://www.linkedin.com/in/pieterschoehuijs/"
+    },
+    {
+      "name": "Jinto Jose, MBA",
+      "reference": "J'ai rarement rencontré des personnes aussi énergisées que Theo. Theo a été mon manager pendant presque deux ans pendant mon séjour chez Glencore Agriculture. Ayant travaillé sur divers projets Agile dans plusieurs entreprises, et étant un développeur incroyable, la compréhension de l'Agile par Theo dépasse celle de beaucoup d'autres. Sa capacité à trouver de l'humour dans les situations les plus tendues a aidé à apporter un sentiment de calme partout. J'ai eu le privilège de travailler avec Theo.",
+      "url": "https://www.linkedin.com/in/jintojose/"
+    }
+  ],
+  "projects": [
+    {
+      "name": "SH Python Installer",
+      "startDate": "",
+      "summary": "Mettre à jour Python sur des systèmes comme Raspberry Pi et Ubuntu peut souvent être une tâche complexe et problématique. Ce processus implique généralement de naviguer parmi diverses dépendances, de gérer les conflits potentiels et d'assurer la compatibilité avec les applications existantes. Cela peut être particulièrement décourageant pour les utilisateurs qui ne sont pas très familiarisés avec l'administration système. En réponse à ce défi, mon script offre une solution simplifiée. Avec une seule ligne de commande, vous pouvez mettre à jour facilement votre version de Python vers n'importe quelle version souhaitée. Ce script simple élimine les problèmes habituels et les complexités associés aux mises à jour de Python, le rendant accessible et sans tracas pour tout le monde, quel que soit leur niveau d'expertise technique.",
+      "url": "https://github.com/tvdsluijs/sh-python-installer",
+      "endDate": ""
+    },
+    {
+      "name": "Projet de tarification énergétique",
+      "startDate": "",
+      "summary": "Début 2021, lorsque les prix de l'énergie augmentaient, j'ai découvert les avantages des prix négatifs de l'électricité avec un ami. Cela a conduit à ePrijzen, une plateforme qui surveille les prix dynamiques de l'énergie. J'ai écrit un script Python qui alerte via Telegram lorsque les prix sont bas. Ce qui a commencé comme un projet personnel est devenu un service pour des milliers d'utilisateurs. En utilisant Docker et Digital Ocean, j'ai assuré l'évolutivité et la stabilité. Fin 2023, ePrijzen a atteint 13 000 utilisateurs.",
+      "url": "https://energieadvieszeeland.nl/eprijzen/",
+      "endDate": ""
+    },
+    {
+      "name": "Configuration Home Assistant sur GitHub",
+      "startDate": "",
+      "summary": "Ce référentiel contient ma configuration personnelle de Home Assistant, visant à améliorer et automatiser mon environnement domestique. Il fournit un aperçu des fichiers YAML, des scripts et d'autres configurations nécessaires. Cette configuration est spécifiquement adaptée à mes besoins, mais peut servir d'inspiration ou de point de départ pour d'autres. L'objectif est de donner un aperçu de mon système et d'offrir des idées et des directives pour créer votre propre environnement Home Assistant.",
+      "url": "https://github.com/tvdsluijs/home-assistant-config",
+      "endDate": ""
+    }
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}

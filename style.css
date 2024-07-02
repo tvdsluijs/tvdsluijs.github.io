@@ -752,3 +752,8 @@ footer p {
         width: 0;
     }
 }
+
+.small-text {
+    margin-top: 5px !important;
+    font-size: 0.8em;
+}

@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://theovandersluijs.eu/sitemap.xml
